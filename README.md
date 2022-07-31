@@ -1,5 +1,5 @@
 
-# Store Management and Billing Website using NodeJS, MySQL and Javascript 
+# Store Management and Billing Website using NodeJS, EJS, MySQL and Javascript 
 
   
 ## Features
@@ -29,10 +29,9 @@ MySQL Installation Guide
 
 ```bash
 Download all the project details and instructions from here:
-https://drive.google.com/drive/u/0/folders/1T9qs_w3x7mhqCJABqyxbQR-a3u_jLsSn
 
 ```bash
-  https://drive.google.com/file/d/1r0zaU-5Jzvf8aAqs4a-yiOMHxdkR5Y87/view?usp=sharing
+  https://drive.google.com/drive/u/0/folders/1T9qs_w3x7mhqCJABqyxbQR-a3u_jLsSn
 ```
 Open mysql command prompt(as Administrator) and run the following command:-
 
@@ -61,13 +60,13 @@ Download and install **node** from here
 Clone the project (You can also download this project directly as a zip file by clicking on **Code** present on top of this page and then clicking **Download Zip**)
 
 ```bash
-  git clone https://github.com/ShetuRaj/Inventory-Management-and-Billing-Website.git
+  git clone https://github.com/HeliosRG/Inventory-Management-and-Billing-System.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Inventory-Management-and-Billing-Website
+  cd Store-Management-and-Billing-Website
 ```
 
 Install dependencies
@@ -92,7 +91,7 @@ Type this is your browser to open the local version of the website
   
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your `.env` file (Create a file named `.env` at the root of your project directory, i.e., in **Inventory-Management-and-Billing-Website** folder)
+To run this project, you will need to add the following environment variables to your `.env` file (Create a file named `.env` at the root of your project directory, i.e., in **Store-Management-and-Billing-Website** folder)
 
 ```bash
 SESSION_SECRET=secret
