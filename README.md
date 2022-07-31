@@ -9,7 +9,6 @@
 - Sales Analysis
 - Stock Analysis
 - Generation of Bill in printable format
-- Passport Authentication ([Tutorial Link](https://www.youtube.com/watch?v=-RCnNyD0L-s))
 
   
 ## Tech Stack
@@ -29,9 +28,8 @@ Install MySQL
 MySQL Installation Guide
 
 ```bash
-  https://www.youtube.com/watch?v=u96rVINbAUI
-```
-Download mysql database **.sql** file from here
+Download all the project details and instructions from here:
+https://drive.google.com/drive/u/0/folders/1T9qs_w3x7mhqCJABqyxbQR-a3u_jLsSn
 
 ```bash
   https://drive.google.com/file/d/1r0zaU-5Jzvf8aAqs4a-yiOMHxdkR5Y87/view?usp=sharing
